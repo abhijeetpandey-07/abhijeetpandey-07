@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Abhijeet Pandey 👋
 
-<!--
-**abhijeetpandey-07/abhijeetpandey-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science & Engineering (Cybersecurity) Student  
+🐍 Python Developer | OOP & Problem Solving  
+💻 Exploring Software Development  
+🔐 Currently Learning Cybersecurity  
+📍 Galgotias University, Greater Noida
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a second-year B.Tech Computer Science & Engineering student specializing in Cybersecurity. I enjoy building projects with Python, learning Object-Oriented Programming, and improving my problem-solving skills through hands-on practice.
+
+I'm currently expanding my knowledge of C++ and Java while exploring software development and cybersecurity.
+
+## 🛠️ Technical Skills
+
+- Python
+- C++
+- Java
+- Object-Oriented Programming
+- Problem Solving
+- OpenCV
+- Computer Vision
+- Optical Character Recognition (OCR)
+
+## 🚀 Featured Project
+
+### Vehicle License Plate Detection and Recognition System
+
+A Python-based project using OpenCV and EasyOCR to detect vehicle license plates and recognize their characters from images.
+
+**Technologies:** Python • OpenCV • EasyOCR • Computer Vision • OCR
+
+## 🌱 Currently Learning
+
+- C++
+- Java
+- Data Structures & Algorithms
+- Cybersecurity Fundamentals
+- Software Development
+
+## 🤝 Connect With Me
+
+- LinkedIn: [Abhijeet Pandey](https://www.linkedin.com/in/abhijeet-pandey-997299436/)
+- GitHub: [abhijeetpandey-07](https://github.com/abhijeetpandey-07)
